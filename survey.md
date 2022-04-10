@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: pink
+Favorite food: nuggets
+Favorite musician/band: Noa Kirel
+Favorite movie: Sharkira
+Requested grade in the course: 101
